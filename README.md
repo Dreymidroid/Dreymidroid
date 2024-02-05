@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dreymidroid
-- 👀 I’m interested in mobile app development (Flutter)
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter projects
+- 👀 I’m a mobile app developer (Flutter)
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on Flutter and Laravel projects
 - 📫 How to reach me @Adefemiwa3 on twitter
 
 <!---
