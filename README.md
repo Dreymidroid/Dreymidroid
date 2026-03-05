@@ -1,7 +1,8 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I%20am%20Damilare!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=180&section=header&text=Hi%20I%27m%20Adefemiwa%20Damilare%20&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20%26%20Web&descAlignY=51&descAlign=62"/>
 </div>
+
 
 <!-- Typing animation -->
 <div align="center">
