@@ -54,12 +54,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreymidroid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreymidroid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreymidroid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Dreymidroid&theme=tokyonight&hide_border=true" />
 </div>
 
