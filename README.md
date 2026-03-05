@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=180&section=header&text=Hey,%20Im%20Adefemiwa%20Damilare&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20-%20Mobile%20and%20Web&descAlignY=58&descColor=e0f2fe)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hi%20I%20am%2Damilare!&descAlignY=51&descAlign=62"/>
 </div>
 
 <!-- Typing animation -->
